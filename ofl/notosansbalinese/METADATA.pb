@@ -23,7 +23,7 @@ axes {
 }
 source {
   repository_url: "https://github.com/notofonts/balinese.git"
-  archive_url: "https://github.com/notofonts/balinese/releases/download/NotoSansBalinese-v2.003/NotoSansBalinese-v2.003.zip"
+  archive_url: "https://github.com/notofonts/balinese/releases/download/NotoSansBalinese-v2.004/NotoSansBalinese-v2.004.zip"
 }
 is_noto: true
 languages: "ban_Bali"  # Balinese, Balinese
