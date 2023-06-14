@@ -1,5 +1,5 @@
 name: "Freeman"
-designer: "Rodrigo Fuenzalida"
+designer: "Rodrigo Fuenzalida, Vernon Adams"
 license: "OFL"
 category: "DISPLAY"
 date_added: "2023-04-28"
