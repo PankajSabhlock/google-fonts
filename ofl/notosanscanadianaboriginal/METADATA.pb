@@ -23,7 +23,7 @@ axes {
 }
 source {
   repository_url: "https://github.com/notofonts/canadian-aboriginal.git"
-  archive_url: "https://github.com/notofonts/canadian-aboriginal/releases/download/NotoSansCanadianAboriginal-v2.002/NotoSansCanadianAboriginal-v2.002.zip"
+  archive_url: "https://github.com/notofonts/canadian-aboriginal/releases/download/NotoSansCanadianAboriginal-v2.003/NotoSansCanadianAboriginal-v2.003.zip"
 }
 is_noto: true
 languages: "chp_Cans"  # Chipewyan, Unified Canadian Aboriginal Syllabics
