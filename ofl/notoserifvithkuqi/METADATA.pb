@@ -25,3 +25,5 @@ source {
   archive_url: "https://github.com/notofonts/vithkuqi/releases/download/NotoSerifVithkuqi-v1.005/NotoSerifVithkuqi-v1.005.zip"
 }
 is_noto: true
+primary_script: "Vith"
+languages: "sq_Vith"
