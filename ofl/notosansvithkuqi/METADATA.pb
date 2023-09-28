@@ -24,4 +24,6 @@ source {
   repository_url: "https://github.com/notofonts/vithkuqi.git"
   archive_url: "https://github.com/notofonts/vithkuqi/releases/download/NotoSansVithkuqi-v1.001/NotoSansVithkuqi-v1.001.zip"
 }
+languages: "sq_Vith"
+primary_script: "Vith"
 is_noto: true
