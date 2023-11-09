@@ -44,3 +44,4 @@ source {
   repository_url: "https://github.com/indestructible-type/Bodoni"
   commit: "87fc08d47160f9eb7802960b5f7a641576803700"
 }
+stroke: "SERIF"
