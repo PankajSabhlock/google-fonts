@@ -10,7 +10,7 @@ fonts {
   filename: "BriemHand[wght].ttf"
   post_script_name: "BriemHand-Thin"
   full_name: "Briem Hand Thin"
-  copyright: "Copyright 2019 The Familyname Project Authors (https://github.com/SorkinType/Briem-Script)"
+  copyright: "Copyright 2019 The Briem Hand Project Authors (https://github.com/SorkinType/Briem-Hand)"
 }
 subsets: "cyrillic-ext"
 subsets: "latin"
