@@ -21,3 +21,4 @@ source {
   repository_url: "https://github.com/scfried/soft-type-jacquarda-bastarda"
   commit: "0d686fc6716df540065e5dc2b83001945eca178f"
 }
+stroke:"SERIF"
