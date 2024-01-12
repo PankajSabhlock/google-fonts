@@ -21,3 +21,4 @@ source {
   repository_url: "https://github.com/scfried/soft-type-jacquard"
   commit: "69d9c687bcf034251d7b1e11a0dbc4496a6b3ad4"
 }
+stroke:"SERIF"
